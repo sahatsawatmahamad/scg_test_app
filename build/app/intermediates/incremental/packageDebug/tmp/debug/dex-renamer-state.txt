@@ -1,0 +1,4 @@
+#Mon Oct 30 13:52:14 ICT 2023
+base.0=/Users/ptherxouxh/Documents/GitHub/scg_test_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
